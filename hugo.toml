@@ -1,0 +1,4 @@
+baseURL = 'https://pbbolton.com/'
+languageCode = 'en-us'
+title = 'Phil Bolton'
+theme = 'hugo-book'
