@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Example photo placeholder">
+  <rect width="1200" height="675" rx="16" fill="#e9edf2"/>
+  <rect x="8" y="8" width="1184" height="659" rx="12" fill="none" stroke="#c3ccd8" stroke-width="3" stroke-dasharray="14 12"/>
+  <g transform="translate(600 300)" fill="none" stroke="#9aa7b8" stroke-width="10" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="-150" y="-100" width="300" height="200" rx="14"/>
+    <circle cx="-80" cy="-40" r="26" fill="#9aa7b8" stroke="none"/>
+    <path d="M-150 60 L-40 -20 L40 50 L90 10 L150 70 L150 100 L-150 100 Z" fill="#9aa7b8" stroke="none"/>
+  </g>
+  <text x="600" y="470" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#5b6a7d">Example photo</text>
+  <text x="600" y="522" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#7c8a9c">Replace this with a picture of your build</text>
+</svg>

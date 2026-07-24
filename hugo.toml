@@ -7,3 +7,10 @@ theme = 'hugo-book'
 dir = ':cacheDir/images'
 [params]
 BookToC = false
+
+# Allow raw HTML in articles (e.g. pasted YouTube/embed code) instead of
+# silently stripping it. Safe here because Phil is the only author.
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
